@@ -5,6 +5,4 @@ The various options as explained above can be discovered using the toggler butto
 
 To run the project, we need to run the file project.py
 
-Also, the images included in the project have web links, so to view them, connectivity to the internet is also required.
 
-The various webpages are introduced as templates, stored in the templates folder
